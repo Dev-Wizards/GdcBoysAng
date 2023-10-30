@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GDC Anantnag</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">GDC Anantnag</string>
+    <string name="nav_header_subtitle">www.gdcboysang.ac.in</string>
+    <string name="action_settings">Settings</string>
+    <string name="Notifications">Notifications</string>
+    <string name="Gallery">Gallery</string>
+    <string name="News">Latest News</string>
+    <string name="Messages">Announcements</string>
+    <string name="Downloads">Downloads</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
